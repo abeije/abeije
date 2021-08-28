@@ -1,2 +1,5 @@
 Chrome
 Firefox
+Mozilla
+Netscape
+
